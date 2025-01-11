@@ -1,0 +1,6 @@
+﻿_id,Kode,Elemen,Data 2019,Data 2020,Data 2021,Data 2022,Data 2023,Satuan,Sifat Data,Status,Penanggung Jawab
+1,1.01,PENDIDIKAN,"","",,,,"","","",""
+2,1.01.027,Pendidikan Taman Kanak-Kanak,"","",,,,"","","",""
+3,1.01.027.001,Persentase Anak Usia 4-6 Tahun yang Mengikuti Program TK/RA,n/a,n/a,100,100,100,%,Tahunan,-,Dinas Pendidikan
+4,1.01.027.002,Guru yang Layak Mendidik TK/RA dengan Kualifikasi Sesuai Standar Kompetensi yang Ditetapkan Secara Nasional,n/a,n/a,100,100,100,%,Tahunan,-,Dinas Pendidikan
+5,1.01.027.003,TK/RA yang Memiliki Sarana dan Prasarana Belajar/Bermain,n/a,n/a,100,100,100,%,Tahunan,-,Dinas Pendidikan
